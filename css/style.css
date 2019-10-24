@@ -1,0 +1,72 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'DejaVu Sans';
+  src: url('../fonts/dejavu-sans-webfont.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/dejavu-sans-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/dejavu-sans-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/dejavu-sans-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/dejavu-sans-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/dejavu-sans-webfont.svg#dejavu_sansregular') format('svg'); /* Legacy iOS */
+}
+.geo-font{font-family: 'DejaVu Sans';}
+body{font-family: 'Lato', sans-serif;}
+header {position: fixed;top:0;left:0;right:0;z-index: 1050;}
+.home-pad{padding-top: 73px;}
+.carousel-inner{max-height: 400px !important;}
+h2{font-size: 22px;}h3{font-size: 25px;}h4{font-size: 18px}
+.css-section{width: 100%; background: #f8f9fa;}
+.css-container{max-width: 1140px; margin: 0 auto; padding: 60px 0; display: flex; justify-content: space-between; align-content: flex-start;}
+.css-mainbox{width: 760px; padding:0 15px;}
+.css-aside{width: 284px; background-color: #FFF; border-radius: 5px; padding:25px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);}
+.css-title{display: block; width: 100%; margin-bottom: 5px;}
+.css-container span {width: 30%; height: 50px; background-color: #343a40; display: inline-block;}
+.css-dib span:nth-child(2){margin: 0 5%;}
+.css-flx{display: flex; justify-content: space-between; align-content:center; flex-flow: row wrap; margin-bottom: 10px;}
+.css-flt, .css-ani {text-align: center;}
+.css-flt span:nth-child(1){float:left;}
+.css-flt span:nth-child(3){float:right;}
+.css-pos{width: 100%; height: 160px; background-color:#343a40; position: relative;}
+.css-pos span{position: absolute; width: 100px; height: 50px; background-color: #f8f9fa}
+.css-pos span:nth-child(1){top: 20px; left: 20px; z-index: 1;}
+.css-pos span:nth-child(2){top: 30px; left: 30px; background-color:#007bff; }
+.css-pos span:nth-child(3){bottom: 20px; right: 20px;}
+.css-pos span:nth-child(4){bottom: 30px; right: 30px; background-color: #007bff; z-index: 1;}
+.css-ani {margin-bottom: 15px;}
+.css-ani span:nth-child(1){float:left;}
+.css-ani span:nth-child(3){float:right;}
+.css-ani span:nth-child(1){transition: background-color 0.5s ease-in 0.1s;}
+.css-ani span:nth-child(1):hover{background-color:#007bff;}
+.css-ani span:nth-child(2){transition: width 0.5s ease-out 0.1s;}
+.css-ani span:nth-child(2):hover{width: 35%;}
+.css-ani span:nth-child(3){
+  position: relative;
+  animation: boxAnimation 2s linear 0.1s infinite;
+  animation-play-state: paused;
+}
+.css-ani span:nth-child(3):hover{animation-play-state: running;}
+@keyframes boxAnimation {
+  0%   {background-color:#007bff; right:0px;}
+  25%  {background-color:#343a40; right:20px;}
+  50%  {background-color:#007bff; right:0px;}
+  75%  {background-color:#343a40; right:20px}
+  100% {background-color:#007bff; right:0px;}
+}
+.resource-pane a{font-size: 13px;}
+.scroll-top{position: fixed;bottom: 50px; right: 25px; display: none;}
+@media (max-width: 1199.98px) {
+  .css-container{max-width: 960px;}
+  .css-mainbox {width: 640px;}
+  .css-aside{width: 235px;}
+}
+@media (max-width: 991.98px) {
+  .css-container{max-width: 720px; display: block;}
+  .css-mainbox {width: 100%;}
+  .css-aside{width: 100%; display: flex; justify-content: space-between;}
+  .css-aside img{width: 100px;}
+}
+@media (max-width: 767.98px) {
+.css-container{max-width: 540px;}
+}
+@media (max-width: 575.98px) {
+.css-container{max-width: 100%;}
+ }

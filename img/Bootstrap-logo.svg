@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="twitter_bootstrap_logo.svg" inkscape:version="0.48.1 r9760"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-329 180.4 200 201.3"
+	 style="enable-background:new -329 180.4 200 201.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#rect3050_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  id="namedview2996" objecttolerance="10" bordercolor="#666666" inkscape:cy="407.66551" guidetolerance="10" gridtolerance="10" fit-margin-left="0" borderopacity="1" showgrid="false" fit-margin-top="0" inkscape:cx="116.80866" pagecolor="#ffffff" inkscape:zoom="0.24896372" inkscape:pageopacity="0" inkscape:window-width="864" fit-margin-right="0" inkscape:pageshadow="2" inkscape:window-maximized="0" inkscape:window-height="623" inkscape:window-y="0" fit-margin-bottom="0" inkscape:current-layer="svg2" inkscape:window-x="0">
+	</sodipodi:namedview>
+<g id="layer1" transform="matrix(15.623041,0,0,15.623041,-3987.6024,-6644.8835)">
+	
+		<linearGradient id="rect3050_1_" gradientUnits="userSpaceOnUse" x1="231.6077" y1="433.6202" x2="242.8608" y2="422.1704" gradientTransform="matrix(244.0788 0 0 244.0788 -56295.5781 -105388.4219)">
+		<stop  offset="0" style="stop-color:#070135"/>
+		<stop  offset="1" style="stop-color:#612D50"/>
+	</linearGradient>
+	<path id="rect3050" class="st0" d="M236.3,436.9h8.6c1.1,0,2.1,1,2.1,2.1v8.7c0,1.1-1,2.1-2.1,2.1h-8.6c-1.1,0-2.1-1-2.1-2.1V439
+		C234.2,437.8,235.1,436.9,236.3,436.9z"/>
+	<g id="text3836" transform="scale(1.0052013,0.99482561)">
+		<path id="path3841" inkscape:connector-curvature="0" class="st1" d="M239.4,444.7c0.3,0,0.6-0.1,0.7-0.2c0.2-0.2,0.2-0.3,0.2-0.6
+			c0-0.2-0.1-0.5-0.2-0.6c-0.2-0.2-0.4-0.2-0.7-0.2h-1.1v1.7L239.4,444.7 M239.5,448.2c0.4,0,0.7-0.1,1-0.2c0.2-0.2,0.3-0.4,0.3-0.8
+			c0-0.3-0.1-0.6-0.3-0.8s-0.6-0.2-1-0.2h-1.2v2.1L239.5,448.2 M241.4,445.3c0.5,0.2,0.8,0.4,1,0.7c0.2,0.3,0.4,0.8,0.4,1.3
+			c0,0.8-0.2,1.4-0.8,1.7c-0.6,0.4-1.3,0.6-2.4,0.6h-3.4v-8h3.1c1.1,0,1.9,0.2,2.4,0.5s0.7,0.9,0.7,1.6c0,0.4-0.1,0.7-0.2,1
+			C242.1,445,241.8,445.2,241.4,445.3"/>
+	</g>
+</g>
+</svg>
