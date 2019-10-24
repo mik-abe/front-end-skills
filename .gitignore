@@ -1,0 +1,7 @@
+.htaccess
+*.log
+*.ai
+*.psd
+*.txt
+!README.txt
+php/
