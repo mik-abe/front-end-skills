@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg2" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="twitter_bootstrap_logo.svg" inkscape:version="0.48.1 r9760"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-329 180.4 200 201.3"
-	 style="enable-background:new -329 180.4 200 201.3;" xml:space="preserve">
+	 id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="twitter_bootstrap_logo.svg" inkscape:version="0.48.1 r9760"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-539 860.7 200 201.3"
+	 style="enable-background:new -539 860.7 200 201.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#rect3050_1_);}
+	.st0{fill:url(#XMLID_8_);}
 	.st1{fill:#FFFFFF;}
 </style>
-<sodipodi:namedview  id="namedview2996" objecttolerance="10" bordercolor="#666666" inkscape:cy="407.66551" guidetolerance="10" gridtolerance="10" fit-margin-left="0" borderopacity="1" showgrid="false" fit-margin-top="0" inkscape:cx="116.80866" pagecolor="#ffffff" inkscape:zoom="0.24896372" inkscape:pageopacity="0" inkscape:window-width="864" fit-margin-right="0" inkscape:pageshadow="2" inkscape:window-maximized="0" inkscape:window-height="623" inkscape:window-y="0" fit-margin-bottom="0" inkscape:current-layer="svg2" inkscape:window-x="0">
+<sodipodi:namedview  id="namedview2996" guidetolerance="10" fit-margin-left="0" fit-margin-top="0" borderopacity="1" gridtolerance="10" showgrid="false" objecttolerance="10" inkscape:cx="116.80866" bordercolor="#666666" inkscape:zoom="0.24896372" inkscape:cy="407.66551" pagecolor="#ffffff" inkscape:pageopacity="0" inkscape:window-height="623" inkscape:current-layer="svg2" inkscape:window-x="0" fit-margin-bottom="0" inkscape:window-maximized="0" inkscape:pageshadow="2" inkscape:window-y="0" fit-margin-right="0" inkscape:window-width="864">
 	</sodipodi:namedview>
-<g id="layer1" transform="matrix(15.623041,0,0,15.623041,-3987.6024,-6644.8835)">
+<g id="XMLID_1_">
 	
-		<linearGradient id="rect3050_1_" gradientUnits="userSpaceOnUse" x1="231.6077" y1="433.6202" x2="242.8608" y2="422.1704" gradientTransform="matrix(244.0788 0 0 244.0788 -56295.5781 -105388.4219)">
+		<linearGradient id="XMLID_8_" gradientUnits="userSpaceOnUse" x1="-688.5479" y1="711.7" x2="-688.4479" y2="711.7" gradientTransform="matrix(1761.5388 -1792.3081 1792.3081 1761.5388 -63209.2344 -2486725.75)">
 		<stop  offset="0" style="stop-color:#070135"/>
 		<stop  offset="1" style="stop-color:#612D50"/>
 	</linearGradient>
-	<path id="rect3050" class="st0" d="M236.3,436.9h8.6c1.1,0,2.1,1,2.1,2.1v8.7c0,1.1-1,2.1-2.1,2.1h-8.6c-1.1,0-2.1-1-2.1-2.1V439
-		C234.2,437.8,235.1,436.9,236.3,436.9z"/>
-	<g id="text3836" transform="scale(1.0052013,0.99482561)">
-		<path id="path3841" inkscape:connector-curvature="0" class="st1" d="M239.4,444.7c0.3,0,0.6-0.1,0.7-0.2c0.2-0.2,0.2-0.3,0.2-0.6
-			c0-0.2-0.1-0.5-0.2-0.6c-0.2-0.2-0.4-0.2-0.7-0.2h-1.1v1.7L239.4,444.7 M239.5,448.2c0.4,0,0.7-0.1,1-0.2c0.2-0.2,0.3-0.4,0.3-0.8
-			c0-0.3-0.1-0.6-0.3-0.8s-0.6-0.2-1-0.2h-1.2v2.1L239.5,448.2 M241.4,445.3c0.5,0.2,0.8,0.4,1,0.7c0.2,0.3,0.4,0.8,0.4,1.3
-			c0,0.8-0.2,1.4-0.8,1.7c-0.6,0.4-1.3,0.6-2.4,0.6h-3.4v-8h3.1c1.1,0,1.9,0.2,2.4,0.5s0.7,0.9,0.7,1.6c0,0.4-0.1,0.7-0.2,1
-			C242.1,445,241.8,445.2,241.4,445.3"/>
-	</g>
+	<path id="XMLID_3_" class="st0" d="M-506.7,860.9h135.4c17.8,0,32.3,14.5,32.3,32.3v136.2c0,17.8-14.5,32.3-32.3,32.3h-135.4
+		c-17.8,0-32.3-14.5-32.3-32.3V893.2C-539,875.4-524.5,860.9-506.7,860.9z"/>
+	<path id="XMLID_7_" class="st1" d="M-437.5,947.4c5.1,0,9-1.1,11.6-3.3c2.6-2.2,4-5.5,4-9.8c0-4.3-1.3-7.5-4-9.7
+		c-2.6-2.3-6.5-3.4-11.6-3.4h-17.9v26.3L-437.5,947.4 M-436.4,1001.8c6.5,0,11.4-1.4,14.6-4.1c3.3-2.7,5-6.8,5-12.3
+		c0-5.4-1.6-9.4-4.9-12.1c-3.3-2.7-8.2-4.1-14.7-4.1h-19v32.6H-436.4 M-406.3,957.1c7,2,12.3,5.7,16.2,11.1c3.8,5.4,5.7,12,5.7,19.8
+		c0,12-4.1,20.9-12.3,26.8c-8.2,5.9-20.7,8.8-37.4,8.8h-53.8V899.2h48.7c17.5,0,30.1,2.6,37.9,7.8c7.9,5.2,11.8,13.6,11.8,25.1
+		c0,6.1-1.4,11.2-4.3,15.5C-396.7,951.9-400.8,955-406.3,957.1"/>
 </g>
 </svg>
