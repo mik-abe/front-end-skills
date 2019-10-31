@@ -8,6 +8,7 @@
   url('../fonts/dejavu-sans-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
   url('../fonts/dejavu-sans-webfont.svg#dejavu_sansregular') format('svg'); /* Legacy iOS */
 }
+body{color: #343a40}
 .geo-font{font-family: 'DejaVu Sans';}
 body{font-family: 'Lato', sans-serif;}
 header {position: fixed;top:0;left:0;right:0;z-index: 1050;}
